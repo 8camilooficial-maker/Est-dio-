@@ -4,7 +4,7 @@
 
 Criado por **Camilo**, o **Estúdio** é uma aplicação web progressiva (PWA) que transforma seu dispositivo em uma suíte completa de edição de mídia. Com uma interface moderna, intuitiva e cheia de recursos, você pode ajustar, filtrar, cortar, adicionar textos, stickers, desenhos e música – tudo sem precisar instalar nada.
 
-✨ **Experimente agora:** _[https://8camilooficial-maker.github.io/Est-dio-/]_  
+✨ **Experimente agora:** [https://8camilooficial-maker.github.io/Est-dio-/](https://8camilooficial-maker.github.io/Est-dio-/)  
 📲 **Instale como app** na tela inicial do seu celular ou computador e use mesmo sem internet!
 
 ---
@@ -44,4 +44,4 @@ Criado por **Camilo**, o **Estúdio** é uma aplicação web progressiva (PWA) q
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/https://8camilooficial-maker.github.io/Est-dio-/
+   git clone https://github.com/8camilooficial-maker/Est-dio-.git
